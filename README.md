@@ -1,5 +1,15 @@
-"# SIMPLES CRUD-NODEJS" 
+# (Atualização) CRUD 
 
-# Para rodar a aplicação => `npm start`
+Esse repo está sendo utilizado para fins de estudos, ao invés de criar vairios repos, estou criando varias branch para upar meus codigos enquanto estou aprendendo Node, Express, Mongo, Mongoose
 
-# Utilizar `Postman` para fazer funcionar.
+1° Repo, CRUD com apenas Node.js
+<br>
+
+
+2°Repo, CRUD com Express e mongoose
+
+
+## Para rodar a aplicação
+`npm i & npm start`
+
+## Utilizar `Postman` para fazer funcionar.
